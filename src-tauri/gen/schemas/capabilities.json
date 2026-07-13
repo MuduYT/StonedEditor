@@ -1,0 +1,1 @@
+{"default":{"identifier":"default","description":"Capabilities required by the StonedEditor desktop window","local":true,"windows":["main"],"permissions":["core:default","dialog:default","fs:default","http:default","store:default"]}}
