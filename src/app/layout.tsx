@@ -4,7 +4,7 @@ import "./globals.css";
 
 export const metadata: Metadata = {
   title: "StonedEditor",
-  description: "AI code editor powered by FreeModel.dev",
+  description: "AI code editor powered by OpenRouter",
 };
 
 export default function RootLayout({
